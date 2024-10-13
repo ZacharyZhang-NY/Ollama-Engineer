@@ -1,0 +1,4 @@
+ openai                                                                      
+ termcolor                                                                   
+ prompt_toolkit                                                              
+ rich
