@@ -44,12 +44,12 @@ A command-line tool designed to assist developers in managing and interacting wi
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/ollama-engineer.git
+   git clone https://github.com/ZacharyZhang-NY/Ollama-Engineer
    ```
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd ollama-engineer
+   cd Ollama-Engineer
    ```
 
 3. **Install Dependencies**:
