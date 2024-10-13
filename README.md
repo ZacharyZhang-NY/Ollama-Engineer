@@ -1,5 +1,7 @@
 # 🛠️ ollama-engineer
 
+Originally forked from [o1-engineer](https://github.com/Doriandarko/o1-engineer)
+
 ![Updated Features](https://img.shields.io/badge/Features-Updated-brightgreen)
 
 A command-line tool designed to assist developers in managing and interacting with their projects efficiently. Leveraging the power of Ollama's local language models, ollama-engineer provides functionalities such as code generation, file editing, project planning, and code review to streamline your development workflow.
@@ -118,11 +120,7 @@ We welcome contributions! Please follow these steps:
 
 5. Open a pull request.
 
-## 🙏 Acknowledgments
-
-- OpenAI for providing the powerful API.
-
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Doriandarko/o1-engineer&type=Date)](https://star-history.com/#Doriandarko/o1-engineer&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=ZacharyZhang-NY/Ollama-Engineer&type=Date)](https://github.com/ZacharyZhang-NY/Ollama-Engineer&Date)
 
